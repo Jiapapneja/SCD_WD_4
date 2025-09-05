@@ -22,7 +22,7 @@ This is a modern and responsive **To-Do List Web Application** built using HTML,
 ---
 
 ## Project Structure
-/todo-app
+/Task4_ToDoList
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
